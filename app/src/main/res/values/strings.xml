@@ -1,0 +1,4 @@
+<resources>
+<string name="app_name">Papayin</string>
+<string name="error_player">Hubo un error al iniciar el YouTubePlayer</string>
+</resources>
